@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MA actual.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA actual.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +133,7 @@
   },
   "active": "f88f3cca82a316ce",
   "lastOpenFiles": [
+    "README.md",
     "MA actual.md",
     "MA 109.md",
     "Ligand Field Theory.md",
@@ -142,7 +142,6 @@
     "Octahedral complexes.md",
     "Tetrahedral complexes.md",
     "Jahn-Teller distortion.md",
-    "CH 105.md",
-    "Limit of functions and sequences.md"
+    "CH 105.md"
   ]
 }
