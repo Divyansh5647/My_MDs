@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "a710372667ca007e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f88f3cca82a316ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MA actual.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3af9bc01db8fb27b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d921282c36c0a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85f1638ed94c28f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8e04bee6d19df4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ascii",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c58e3214bc0d459",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283
+  },
+  "right": {
+    "id": "c62647d4e0c87eba",
+    "type": "split",
+    "children": [
+      {
+        "id": "16a4ac6cd1afa050",
+        "type": "tabs",
+        "dimension": 59.654178674351584,
+        "children": [
+          {
+            "id": "18039c990f2ed77b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MA actual.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fdb7ed579b7b05f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abb0fbcb05e85801",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ac49c550d7066f21",
+        "type": "tabs",
+        "dimension": 40.345821325648416,
+        "children": [
+          {
+            "id": "e50e7fba2b4ccf19",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294,
+    "collapsed": true
+  },
+  "active": "f88f3cca82a316ce",
+  "lastOpenFiles": [
+    "MA actual.md",
+    "Limit of functions and sequences.md",
+    "Tetrahedral complexes.md",
+    "Ligand Field Theory.md",
+    "Octahedral complexes.md",
+    "Coordination compounds.md",
+    "Crystal Field Theory.md",
+    "CH 105.md",
+    "Chemistry of Transition Metals.md",
+    "Weak Interactions.md"
+  ]
+}
