@@ -34,11 +34,11 @@ Pairing energy P is inherent to any metal atom, and so is constant for any compl
     1. if splitting is large enough such that $\Delta_o>P$, then electrons after d3 pair up in the $t_{2g}$ set of orbitals rather than occupying the $e_g$ set (**low-spin**).
     2. if splitting is insufficient ($\Delta_o<P$), then electrons after d3 occupy $e_g$ set of orbitals (**high-spin**).
 2. **Tetrahedral complexes** :
-    For d3-d6 configurations, 
-    1. if splitting is large enough such that $\Delta>P$, then electrons after d2 pair up in the $e$ set of orbitals rather than occupying the $t_2$ set (**low-spin**).
-    2. if splitting is insufficient ($\Delta<P$), then electrons after d2 occupy $t_2$ set of orbitals (**high-spin**).
-
+    Most of the tetrahedral complexes are high spin, because $\Delta_t$ is generally very small.
+    The only exception to this is caused by spin-crossover.
+    
 ---
+## Types of complexes
 [[Octahedral complexes]]
 [[Tetrahedral complexes]]
 
@@ -51,6 +51,22 @@ $$
 Due to this, tetrahedral complexes generally have **high-spin**.
 
 ---
-### Applications of CFSE
+## Applications of CFSE
+### Determination of spinel structures 
+General formula of spinel : $AB_2O_4$, where O is oxygen atom, OS of A = +2, and B = +3.
+In any spinels, O-atoms form a CCP array, while the cations fill the octahedral and tetrahedral voids.
+
+In the normal spinel,
+- CFSE of A(+2) < B(+3), both in octahedral field
+- The A(+2) ion sits in tetrahedral sites
+- The B(+3) ions sits in octahedral sites
+- i.e. $[M^{+2}]_{tet} [M^{+3}M^{+3}]_{oh} O_4$ 
+
+In the inverse spinel,
+- CFSE of A(+2) > B(+3), both in octahedral field
+- The A(+2) ion sits in octahedral sites
+- The B(+3) ions sit in both sites
+- i.e. $[M^{+3}]_{tet} [M^{+2}M^{+3}]_{oh} O_4$ 
 
 ---
+

@@ -12,3 +12,5 @@ In a tetrahedral complex, the ligands approach the metal centre from the 4 tetra
 ### Crystal Field Stabilisation energy (CFSE)
 ![[Pasted image 20220115101733.png]]
 $$\text{CFSE} = 0.4\times n_{t_{2g}} - 0.6\times n_{e_g}$$
+
+---
